@@ -1,0 +1,4 @@
+interface:
+  display_name: "按模块开发"
+  short_description: "从项目起步建立模块与依赖约定，持续按业务归属复用工具和公共组件"
+  default_prompt: "使用 $modular-development 完成本次开发；新项目先建立开发架构与首个完整功能，已有项目先核对模块归属和复用能力。"
